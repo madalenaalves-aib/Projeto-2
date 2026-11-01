@@ -1,0 +1,63 @@
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial;
+}
+
+
+h1 {
+    color: darkblue;
+    font-family: Georgia;
+}
+
+
+h2 {
+    color: darkblue;
+    font-family: Georgia;
+}
+
+
+p {
+    color: black;
+    font-family: Arial;
+}
+
+
+.destaque {
+    background-color: lightyellow;
+    margin: 20px;
+}
+
+
+.topico {
+    background-color: white;
+    color: darkblue;
+}
+
+/*
+1. Desafio técnico:
+A regra CSS que achei mais difícil foi
+a classe .destaque, porque inicialmente
+não percebia como aplicar um estilo
+apenas a um parágrafo. Para resolver,
+verifiquei o nome da classe no HTML
+e no CSS até ficar igual.
+
+2. Correção de sintaxe:
+Durante os testes, reparei que as cores
+da página não estavam a aparecer.
+Voltei ao Notepad++ e percebi que tinha
+escrito mal o nome do ficheiro estilos.css
+na ligação do HTML. Corrigi o nome,
+guardei o ficheiro e atualizei a página
+com F5. Depois disso, as cores apareceram
+corretamente.
+
+3. Autoria:
+O atributo src serve para indicar onde
+está guardada a imagem que queremos
+mostrar na página. Neste trabalho,
+utilizei o src para inserir o cartaz
+do filme People We Meet on Vacation.
+*/
+
